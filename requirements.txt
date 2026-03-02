@@ -1,0 +1,11 @@
+flask
+flask-cors
+torch
+whisper
+sounddevice
+numpy
+opencv-python
+Pillow
+diffusers
+controlnet-aux
+noisereduce
